@@ -31,10 +31,10 @@
         android:id="@+id/continuarlabel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Recupera tu contraseña"
-        android:textSize="24sp"
         android:fontFamily="@font/allerta"
-        android:transitionName="iniciaSesionTextTrans"/>
+        android:text="Recuperar contraseña"
+        android:textSize="24sp"
+        android:transitionName="iniciaSesionTextTrans" />
 
     <LinearLayout
         android:layout_width="match_parent"
